@@ -10,7 +10,7 @@ title: Tanglegence
 email: info@tanglegence.com
 description: Untangling Complexity
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://tanglegence.com" # the base hostname & protocol for your site
+url: "https://beta.tanglegence.com" # the base hostname & protocol for your site
 
 # Logo settings
 logo-image-url:
